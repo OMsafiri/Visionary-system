@@ -1,0 +1,15 @@
+body{
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+.space-top{
+	margin-top: 6rem !important;
+}
+
+.form-control{
+	padding: 8px 6px !important;
+}
+.large{
+	font-size: 4rem !important;
+}
